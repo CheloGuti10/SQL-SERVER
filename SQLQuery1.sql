@@ -10,4 +10,5 @@ created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
 INSERT INTO Clients (name, email, phone, address)
 VALUES
 ('Bill Gates', 'billgates@microsoft.com', '+123456789', 'New York, USA'),
-('Elon Musk', 'elonmusk@spacex.com', '+1122334455', 'Florida, USA');
+('Elon Musk', 'elonmusk@spacex.com', '+1122334455', 'Florida, USA'),
+('Donald Trump', 'donaldtrump@gmail.com', '+12345678', 'EE.UU');
